@@ -23,7 +23,9 @@ you import this file.
 /* [paper-font] */
 body {
   font-family: 'Roboto', 'Noto', sans-serif;
-  -webkit-font-smoothing: antialiased;  /* OS X subpixel AA bleed bug */
+  /* OS X subpixel AA bleed bug. */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* [paper-font=display2] */
