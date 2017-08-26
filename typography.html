@@ -25,12 +25,16 @@ Design typography section.
       /* Shared Styles */
       --paper-font-common-base: {
         font-family: var(--paper-font-common-base-family, 'Roboto', 'Noto', sans-serif);
+        /* OS X subpixel AA bleed bug. */
         -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
       };
 
       --paper-font-common-code: {
         font-family: var(--paper-font-common-code-family, 'Roboto Mono', 'Consolas', 'Menlo', monospace);
+        /* OS X subpixel AA bleed bug. */
         -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
       };
 
       --paper-font-common-expensive-kerning: {
