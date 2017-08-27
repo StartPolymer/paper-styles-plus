@@ -16,7 +16,11 @@ thing! https://github.com/PolymerLabs/tedium/issues
 _[Demo and API docs](https://elements.polymer-project.org/elements/paper-styles)_
 
 
-## &lt;paper-styles&gt;
+## &lt;paper-styles-plus&gt;
+
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
+
+> This repo is up-to-date fork of [&lt;paper-styles&gt;](https://github.com/PolymerElements/paper-styles)
 
 ### Changes
 
