@@ -18,6 +18,14 @@ _[Demo and API docs](https://elements.polymer-project.org/elements/paper-styles)
 
 ## &lt;paper-styles&gt;
 
+### Changes
+
+- Removed font-roboto dependency
+- Removed google colors
+- Removed opacity variables
+- Added `-moz-osx-font-smoothing: grayscale;`
+- Converted font size to `rem` inspired by [Material Components for the web](https://github.com/material-components/material-components-web/blob/master/packages/mdc-typography/_variables.scss)
+
 The `<paper-styles>` component provides simple ways to use Material Design CSS styles
 in your application. The following imports are available:
 
