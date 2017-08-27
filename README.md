@@ -34,6 +34,8 @@ Add this line to `bower.json`
 "paper-styles": "StartPolymer/paper-styles-plus#2.0.x"
 ```
 
+and then run `bower install paper-styles`
+
 ### About
 
 The `<paper-styles>` component provides simple ways to use Material Design CSS styles
