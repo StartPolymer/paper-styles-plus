@@ -26,6 +26,16 @@ _[Demo and API docs](https://elements.polymer-project.org/elements/paper-styles)
 - Added `-moz-osx-font-smoothing: grayscale;`
 - Converted font size to `rem` inspired by [Material Components for the web](https://github.com/material-components/material-components-web/blob/master/packages/mdc-typography/_variables.scss)
 
+### How to use
+
+Add this line to `bower.json`
+
+```json
+"paper-styles": "StartPolymer/paper-styles-plus#2.0.x"
+```
+
+### About
+
 The `<paper-styles>` component provides simple ways to use Material Design CSS styles
 in your application. The following imports are available:
 
