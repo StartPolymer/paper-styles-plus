@@ -29,6 +29,7 @@ _[Demo and API docs](https://elements.polymer-project.org/elements/paper-styles)
 - Removed opacity variables
 - Added `-moz-osx-font-smoothing: grayscale;`
 - Converted font size to `rem` inspired by [Material Components for the web](https://github.com/material-components/material-components-web/blob/master/packages/mdc-typography/_variables.scss)
+- [RSCSS](http://rscss.io/helpers.html) Helper styles
 
 ### How to use
 
